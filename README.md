@@ -11,3 +11,10 @@ Group Members: Vibha Joshi, Dorrin Ashrafi, Vivian Diep, Matthew Liao
    - filter by USA
 4. implement clustering
 5. final analysis & conclusion 
+
+find optimal k before clustering
+use clustering for UFO sighting data to quantify location of each state
+whatever clusters we get, we map the means of those clusters to states
+then compare those clusters with average temp
+compare location of sightings with temperature at said sightings
+see if there's any correlation
